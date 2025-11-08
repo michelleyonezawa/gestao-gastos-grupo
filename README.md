@@ -7,7 +7,6 @@ Regras de Negócio:
 - O e-mail deve ser único, não podendo existir dois usuários com o mesmo e-mail.
 - A senha deve possuir no mínimo 6 caracteres.
 - Todos os campos obrigatórios devem ser preenchidos (nome, e-mail e senha).
-- O sistema deve validar o formato do e-mail antes do cadastro.????
 
 2) Cadastro de um Grupo
 Como um usuário autenticado,
@@ -25,7 +24,7 @@ Eu quero entrar em um grupo já existente,
 Para que eu possa acompanhar e registrar gastos compartilhados com seus membros.
 
 Regras de Negócio:
-- O usuário só pode entrar em um grupo se não fizer parte dele atualmente.???
+- O usuário só pode entrar em um grupo se não fizer parte dele atualmente.
 - Deve existir um código ou identificador do grupo para entrada.
 - O grupo deve estar ativo (não arquivado/excluído).
 
